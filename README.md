@@ -1,6 +1,6 @@
 # CasAINet
 
-CasAINet: accurate and fast detection of Cas proteins via robust large language models and deep attentive neural networks
+Accurate and explainable detection of Cas proteins via robust large language model and attentive network
 
 
 # Source Code
